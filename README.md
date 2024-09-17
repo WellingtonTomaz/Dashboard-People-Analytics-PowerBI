@@ -1,6 +1,5 @@
 # People-Analytics---BI
-Projeto de departamento pessoal no PowerBI
-
+DASHBOARD POWERBI
 
 
 Foi desenvolvido um projeto para a empresa fictícia Techsafe,  o departamento pessoal da mesma deseja mapear algumas informações e acompanhar seu relatório no Power BI.
